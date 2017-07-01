@@ -1,0 +1,30 @@
+/* CSS declarations go here */
+.thumbnail {
+	height:250px;
+	word-wrap:break-word;
+}
+
+.thumbnail-img {
+	max-height:200px;
+}
+
+.sq-img {
+    max-height: 25px;
+    max-width: 25px;
+}
+
+.raceButton {
+	position: absolute;
+	width: 25px;
+	height: 46px;
+	top: 0px;
+	left: 0px;
+}
+
+.raceDecision {
+	position: relative;
+}
+
+#breadcrumbs { 
+	padding-top: 60px; 
+}
